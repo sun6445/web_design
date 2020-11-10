@@ -1,0 +1,70 @@
+body{
+    font-family: "맑은고딕", "고딕", "굴림";
+    background-color :#61c8ff;
+}
+
+header{
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #fdecb2;
+    padding: 10px;
+    overflow: hidden;      
+}
+
+header h1{
+    width: 40%;
+    float: left;
+    color: #ffffff;
+    font-size: 10px;
+}
+
+p{
+    font-size: 20px;
+    line-height: 20px;
+}
+
+section{
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    border: 5px solid #ffffff;
+    padding: 5px;
+    background-color: #aae0ea;
+}
+
+footer{
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0;
+    padding: 10px;
+    background-color: #ffffff;
+    color: #00baff;
+    text-align: center;
+}
+
+ul{
+    list-style-type: square; 
+}
+
+@font-face{
+    font-family: Rix오늘의만화;
+    src: url('Rix오늘의만화.ttf');
+}
+
+body{
+    font-family: Rix오늘의만화;
+}
+
+h1{
+    font-variant: small-caps;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
