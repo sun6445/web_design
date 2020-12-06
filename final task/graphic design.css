@@ -87,10 +87,11 @@ nav ul li a:hover{
 }
 .sidebar li{    
     text-align: left;
-    border-bottom: 1px solid;
+    border-bottom: 2px solid;
+    color: darkslateblue;
     list-style: none;
     width:70%;
-
+    color: cornflowerblue;
 }
 
 .sidebar li:last-child{
